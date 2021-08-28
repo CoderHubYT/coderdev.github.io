@@ -1,0 +1,211 @@
+                                body {
+                                    background-color: #292929;
+                                    margin: 0px;
+                                    padding: 0px;
+                                }
+
+
+                                .title {
+                                    font-family: Roboto Thin;
+                                    color: #ff6363;
+                                    font-size: 40px;
+                                    margin-left: 40px;
+                                }
+
+                                .div {
+                                    min-width: 420px;
+                                    max-width: 1920px;
+
+                                }
+
+                                .home {
+                                    margin-left: 500px;
+                                    color: #ff2b24;
+                                    font-family: Roboto Light;
+                                    text-decoration: none;
+                                    border: none;
+                                    background-color: transparent;
+                                    outline: none;
+                                    font-size: 30px;
+                                }
+
+                                .videos {
+                                    margin-left: 30px;
+                                    color: ghostwhite;
+                                    font-family: Roboto Light;
+                                    border: none;
+                                    text-decoration: none;
+                                    outline: none;
+                                    background-color: transparent;
+                                    font-size: 30px;
+                                }
+
+                                        .about {
+                                    margin-left: 30px;
+                                    color: ghostwhite;
+                                    font-family: Roboto Light;
+                                    border: none;
+                                    text-decoration: none;
+                                    outline: none;
+                                    background-color: transparent;
+                                    font-size: 30px;
+                                }
+
+                                        .contact {
+                                    margin-left: 30px;
+                                    color: ghostwhite;
+                                    font-family: Roboto Light;
+                                    text-decoration: none;
+                                    border: none;
+                                    outline: none;
+                                    background-color: transparent;
+                                    font-size: 30px;
+                                }
+                            .dev {
+                                margin-left: 40px;
+                                font-family: Roboto Thin;
+                                font-size: 30px;
+                                color: ghostwhite;
+                                position: absolute;
+                                margin-top: -35px;
+                                margin-left: 75px;
+                            }
+
+                            .buttons{
+                                position: absolute;
+                                margin-left: 850px;
+                                margin-top: -350px;c
+                            }
+
+                            .titles {
+                                margin-top: 30px;
+                                margin-left: 40px;
+                            }
+
+                            .presentation {
+                                text-align: center;
+                                color: ghostwhite;
+                                margin-top: 200px;
+                                font-size: 50px;
+                                font-family: Roboto Light;
+                                color: whitesmoke;
+                            }
+
+                            .titleVideo {
+                                margin-top: 595px;
+                                font-size: 30px;
+                                font-family: Roboto Light;
+                                color: whitesmoke;
+                                text-align: center;
+                            }
+
+                            ::-webkit-scrollbar{
+                                background: blue;
+                                width: 0;
+                            }
+
+                            ::-webkit-scrollbar{
+                                background: blueviolet;
+                            }
+
+                            .minia1{
+                                width: 640px;
+                                height: 360px;
+                                margin-left: 200px;
+                                margin-top: 50px;
+                                margin-bottom: 50px;
+                            }
+
+                            .sub {
+                                text-align: center;
+                                text-decoration: none;
+                                color: whitesmoke;
+                                font-size: 40px;
+                                font-family: Roboto Light;
+                                position: absolute;
+                                margin-top: 480px;
+                                margin-left: -880px;
+                                margin-bottom: 10px;
+
+                            }
+
+                            .titleAbout{
+                                text-align: center;
+                                text-decoration: none;
+                                color: whitesmoke;
+                                font-size: 30px;
+                                font-family: Roboto Light;
+                                margin-top: 0px;
+                            }
+
+                            .aboutText {
+                                text-align: center;
+                                text-decoration: none;
+                                color: whitesmoke;
+                                font-size: 30px;
+                                font-family: Roboto Light;
+                                margin-bottom: 100px;
+                            }
+
+                            html{
+                                scroll-behavior: smooth;
+                                }
+             
+                            .videos {
+                                    text-decoration: none;
+                                    color: whitesmoke;
+                                  } 
+             
+                            #videoID {
+                                margin-top: 20%;
+                                padding-bottom: 30%;
+                                    } 
+
+                                    .about {
+                                    text-decoration: none;
+                                    color: whitesmoke;
+                                  } 
+             
+                            #aboutID {
+                                margin-top: 20%;
+                                padding-bottom: 30%;
+                                    }
+
+                                    .contactTitle {
+                                        text-align: center;
+                                text-decoration: none;
+                                color: whitesmoke;
+                                font-size: 30px;
+                                font-family: Roboto Light;
+                                margin-top: 0px;
+                                    }
+
+                                    .contactText {
+                                        text-align: center;
+                                text-decoration: none;
+                                color: whitesmoke;
+                                font-size: 30px;
+                                font-family: Roboto Light;
+                                margin-top: 0px;
+                                    }
+
+                                    .yt {
+                                        text-decoration: none;
+                                        color: whitesmoke;
+                                    }
+
+                                       .contact {
+                                    text-decoration: none;
+                                    color: whitesmoke;
+                                  } 
+             
+                            #contactID {
+                                margin-top: 10%;
+                                padding-bottom: 20%;
+                                    }
+
+                                    h4 {
+                                        color: whitesmoke;
+                                        font-family: Roboto Thin;
+                                        margin-bottom: -5px;
+                                    }
